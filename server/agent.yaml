@@ -1,5 +1,5 @@
-machine_id: 11cc34d4-db14-4a39-a102-48941ea23426
+machine_id: 30ccc72c-c4c2-4cba-bcbd-bf43a9e0b418
 name: Srikanth
-manager_address: 10.65.30.227:9000
+manager_address: 10.200.6.7:9000
 token: abc123
 port: 9001
